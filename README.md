@@ -11,7 +11,7 @@ The main goal of this project is to complete my assignment in Campus To Technica
   * [Future scope of project](#future-scope)
 
 ## Demo
-Link: [Play Demo](https://flightprice-predict.herokuapp.com/)
+Link: [Play Demo](https://jpkelvin.github.io/Dice-Game/index.html)
 ![image](images/demo1.png)
 ![image1](images/demo2.png)
 
