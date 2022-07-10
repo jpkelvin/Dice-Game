@@ -1,5 +1,5 @@
-# Flight_Fare_Prediction
-The main goal of this project is to complete my assignment in Campus To Technical Careers(C2TC) programme offered by TechnoServe.
+# Dice Game
+This is a capstone project done as part of my internship at Gowri Software Solutions Pvt Ltd.
 
 ## Table of Content
   * [Demo](#demo)
